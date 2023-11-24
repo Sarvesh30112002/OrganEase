@@ -1,6 +1,6 @@
 ## OrganEase
 
-A joint effort by [Kartik Katkar](https://github.com/Kartik-Katkar), [Ojas Joshi](https://github.com/GagDrag), [Nikhil Mahajan](https://github.com/nikhilmahajan3433)and [Sarvesh Hadole](https://github.com/Sarvesh30112002)
+A joint effort by [Kartik Katkar](https://github.com/Kartik-Katkar), [Ojas Joshi](https://github.com/GagDrag), [Nikhil Mahajan](https://github.com/nikhilmahajan3433) and [Sarvesh Hadole](https://github.com/Sarvesh30112002)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purpose.
